@@ -1,0 +1,34 @@
+.container-usuarios {
+    border: 1px solid #F0F0F0;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px;
+    padding: 25px;
+}
+
+.titulo-usuarios {
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.container-user {
+    margin: 10px 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.dados-user {
+    display: flex;
+    flex-direction: column;
+    padding: 5px 0px;
+}
+
+.dados-user span {
+    margin: 3px 20px;
+    font-size: 1.2rem;
+}

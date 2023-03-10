@@ -1,0 +1,40 @@
+.container-cadastro {
+    border: 1px solid #F0F0F0;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px;
+    padding: 25px;
+}
+
+.titulo-cadastro {
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.grupo-campos {
+    min-width: 300px;
+    margin: 10px 0px;
+    font-size: 1.2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.grupo-campos label {
+    margin-right: 10px;
+}
+
+.btn-incluir {
+    font-size: 1.1rem;
+    padding: 15xp;
+    width: 150px;
+    margin-top: 15px;
+}
+
+form {
+    text-align: center;
+}
